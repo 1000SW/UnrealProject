@@ -6,7 +6,8 @@
 개발규모 : 1인개발
 
 # 데모 동영상
-<https://www.youtube.com/watch?v=lfnCu4sRWYs&ab_channel=SWChun>
+
+[![Video Label](http://img.youtube.com/vi/lfnCu4sRWYs&ab/0.jpg)](https://youtu.be/lfnCu4sRWYs&ab)
 
 
-
+hELLO?
