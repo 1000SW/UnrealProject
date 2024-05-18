@@ -12,7 +12,7 @@ IDE : Visual Studio 2022
 
 작업기간 : 세달 내외
 
-# 데모 동영상
+# 데모 동영상 및 기술 설명 영상
 <https://www.youtube.com/watch?v=lfnCu4sRWYs&ab_channel=SWChun>
 
 # 기술 설명서
