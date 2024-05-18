@@ -12,6 +12,8 @@ IDE : Visual Studio 2022
 
 작업기간 : 세달 내외
 
+빌드 파일 구글드라이브 주소 : https://drive.google.com/file/d/1LNwyTIZa6yhML7OnQz_YnVUjFUCm73Wc/view?usp=drive_link
+
 # 데모 동영상 및 기술 설명 영상
 <https://www.youtube.com/watch?v=lfnCu4sRWYs&ab_channel=SWChun>
 
